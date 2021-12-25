@@ -1,0 +1,79 @@
+[
+{
+    "miasto":"Kraków",
+    "kraj":"Polska",
+    "populacja":500000,
+    "wielkosc_km2":5000,
+    "Położenie":"Kraków jest położony w południowej Polsce, w środkowo zachodniej części województwa małopolskiego nad Wisłą; na jego terenie znajdują się ujścia wiślanych dopływów: Białuchy (dolny bieg Prądnika), Rudawy, Dłubni, Drwiny Długiej i Wilgi. Kraków znajduje się w miejscu zbiegu kilku krain geograficznych: Bramy Krakowskiej, Kotliny Oświęcimskiej, Kotliny Sandomierskiej, Pogórza Zachodniobeskidzkiego, Wyżyny Krakowsko-Częstochowskiej. Położenie Krakowa sprawia, że jest on bazą dla wycieczek w polskie góry, czy wypadów do malowniczej Jury Krakowsko-Częstochowskiej.",
+    "zabytki":[{"nazwa":"Zamek Królewski na Wawelu",  "typ_zabytku":"zamek",
+        "rok_wykonania":1250,
+        "styl":"renesansowym",
+        "opis":"Wawel – wzgórze na Pomoście Krakowskim, w Krakowie, w Dzielnicy I Stare Miasto, na lewym brzegu Wisły, historyczna dzielnica Krakowa.Wawel ma charakter zrębu tektonicznego, który powstał w miocenie i zbudowany jest z liczących 161–155 mln lat górnojurajskich wapieni wieku oksfordzkiego. Wzgórze wznosi się na wysokość ok. 228 m n.p.m."
+        },
+        {"nazwa":"Dama z gronostajem","typ_zabytku":"Obraz",
+            "rok_wykonania":1488,
+            "autor":"Leonardo da Vinci",
+            "technika_wykonania":"olej+tempera na desce"
+        },
+            {
+                "nazwa":"Sukiennice w Krakowie","rok_wykonania":1392,"typ_zabytku":
+                "Sukiennice"
+            },
+            {
+                "nazwa":"Kościół archiprezbiterialny Wniebowzięcia Najświętszej Marii Panny Kościół Mariacki",
+                "rok_wykonania":1347,
+                "typ_zabytku":"sakralny"
+             }
+    ]
+  
+
+},
+{
+    "miasto":"Rzym",
+    "kraj":"Włochy",
+    "populacja":4331856,
+    "wielkosc_km2":1287,
+    "Położenie":"Rzym – stolica i największe miasto Włoch, położone w środkowej części kraju nad rzeką Tyber i Morzem Śródziemnym.",
+    "zabytki":[{"nazwa":"Koloseum","typ_zabytku":"amfiteatr",
+        "rok_wykonania":80,
+        "autor":["Tytus Flawiusz","Wespazjan"]},
+           {"nazwa":"Fontanna di Trevi","typ_zabytku":"Fontanna","rok_wykonania":1435,"autor":"Leon Battiste Albertiego","opis":"Fontanna di Trevi (wł. Fontana di Trevi) – najbardziej znana barokowa fontanna w Rzymie, w rione Trevi (R. II). Została zbudowana z inicjatywy Klemensa XII w miejscu istniejącej wcześniej fontanny zaprojektowanej przez Leona Battiste Albertiego z 1435 r. Zasila ją woda doprowadzona akweduktem zbudowanym w 19 r. p.n.e. przez Agrypę, tym samym, który zasila fontannę Barcaccia znajdującą się u podnóża Schodów Hiszpańskich." },
+              {"nazwa":"Zamek Świętego Anioła","typ_zabytku":"mauzoleum","rok_wykonania":139}]
+},
+{
+    "miasto":"Paryż",
+    "kraj":"Francja",
+    "populacja":2243833,
+    "wielkosc_km2":1060,
+    "Położenie":"Paryż – stolica i największe miasto Francji, położone w centrum Basenu Paryskiego, nad Sekwaną.",
+    "zabytki":[{"nazwa":"Wieża Eiffla","typ_zabytku":"wieża","rok_wykonania":1889,
+    "autor":["Gustave Eiffel", "Maurice Koechlin", "Emile Nouguier"],
+    "opis":"Jest to ażurowa konstrukcja kratowa z kutej stali. Jej całkowita wysokość zmieniała się kilkukrotnie za sprawą zamocowanej na jej szczycie anteny: 1889 – 312,27 m (wysokość do zamocowanej na szczycie flagi)1991 – 317,96 m (wysokość z zamocowaną anteną) 1994 – 318,70 m (wysokość z zamocowaną anteną)2000 – 324,00 m (wysokość z zamocowaną anteną), około 81 pięter w typowym budynku."
+    },
+        {"nazwa":"Luwr","typ_zabytku":"muzeum","rok_wykonania":1793,"opis":"Muzeum Luwr (fr. Louvre) wybudowano w 1190 roku. Początkowo budowla pełniła funkcje twierdzy obronnej. Po dwustu latach przekształcono ją w rezydencję królewską, która przez wieki stanowiła siedzibę ponad 20 władców Francji. W XVII dwór królewski przeniesiony został do Wersalu i tym samym zadecydowano, aby opuszczony budynek oddać w ręce artystów. Ostatecznie 1793 roku otwarto tutaj muzeum. Podstawę zbiorów stanowiły dzieła dotychczasowo zgromadzone przez królów oraz łupy wojenne Napoleona."},
+               {"nazwa":"Mona Lisa","typ_zabytku":"obraz","rok_wykonania":1507,
+               "autor":"Leonardo da Vinci","technika_wykonania":"olej na drewnie" }]
+},{
+    "miasto":"Londyn",
+    "kraj":"Wielka Brytania",
+    "populacja":8900000,
+    "wielkosc_km2":1572,
+    "Położenie":"Londyn położony jest w południowo-wschodniej Anglii, nad rzeką Tamizą, około 64 km od jej ujścia do Morza Półnicnego. Początki tego miasta sięgają czasów rzymskich( I w. n.e. ).",
+    "zabytki":[{"nazwa":"Big Ben","typ_zabytku":"Dzwon-Zegar","rok_wykonania":1834,
+        "opis":"Nazwa początkowo odnosiła się do dzwonu ze St. Stephen’s Tower (z ang. Wieża św. Szczepana), zwanej również The Clock Tower (ang. „Wieża Zegarowa”), należącej do Pałacu Westminsterskiego. Obecnie nazwa Big Ben odnosi się często zarówno do dzwonu, jak i zegara oraz samej wieży."
+        },{"nazwa":"Tower of London","typ_zabytku":"pałac","rok_wykonania":1070,"autor":"Wilhelm I Zdobywca","opis":"Her Majesty’s Royal Palace and Fortress, The Tower of London, czyli Pałac i Twierdza Jej Królewskiej Mości to jedna z najwspanialszych angielskich budowli. Jej mury były niemym świadkiem wielu mrocznych wydarzeń, które wstrząsnęły krajem. Tower na przestrzeni lat stała się symbolem niełaski monarchów, którzy na wiele lat przemienili ją w więzienie."},
+        {"nazwa":"Tower Bridge","typ_zabytku":"most","rok_wykonania":1872,"autor":"Horace Jones","długość_mostu":244}]
+
+},
+{
+    "miasto":"Warszawa",
+    "kraj":"Polska",
+    "populacja":1777972,
+    "wielkosc_km2":518,
+    "Położenie":"Warszawa leży w środkowym biegu Wisły, na Nizinie Środkowomazowieckiej, w odległości około 350 km od Karpat i Morza Bałtyckiego. Jest jedyną w Europie stolicą leżącą w bezpośrednim sąsiedztwie parku narodowego  (Kampinoski Park Narodowy). Miasto leży po obu stronach Wisły i jest nieznacznie wydłużone wzdłuż jej brzegów (rozciąga się na ok. 30 km w kierunku północ-południe i ok. 28 km w kierunku wschód-zachód). W obrębie miasta znajduje się 28 km biegu rzeki. Szerokość koryta Wisły waha się od 1000 m na południu do 600 m na północy, zwężając się w części środkowej w pobliżu mostu Śląsko-Dąbrowskiego do 350 m. Lewobrzeżna część Warszawy jest w większości położona na Równinie Warszawskiej (najwyższy punkt geodezyjny na skrzyżowaniu ul. Norwida i Nakielskiej, rejon zajezdni autobusowej „Redutowa” – 115,7 m n.p.m.; porównywalne wysokości w rejonie Filtrów – 114,7 m n.p.m. przy ul. Krzyckiego).",
+    "zabytki":[{"nazwa":"Pałac Na Wyspie","typ_zabytku":"pałac","rok_wykonania":1689,"autor":["Dominik Merlini",
+        "Jan Chrystian Kamsetzer"]},
+        {"nazwa":"Pałac w Wilanowie","typ_zabytku":"pałac","rok_wykonania":1696,"autor":"Augustyn Wincenty Locci","opis":"Pałac w Wilanowie – barokowy pałac królewski znajdujący się w Warszawie, w dzielnicy Wilanów. Został wzniesiony w latach 1681–1696 dla króla Jana III Sobieskiego i Marii Kazimiery według projektu Augustyna Wincentego Locciego; skrzydła boczne dobudowano w latach 1723–1729."},
+        {"nazwa":"Zamek Królewski w Warszawie","typ_zabytku":"zamek","rok_wykonania":1598,"opis":"Pierwotnie rezydencja książąt mazowieckich, a od XVI wieku siedziba władz I Rzeczypospolitej: króla i Sejmu (Izby Poselskiej i Senatu)."}]
+}
+]

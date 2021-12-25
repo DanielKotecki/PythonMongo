@@ -1,0 +1,88 @@
+[
+{
+    "miasto":"Kraków",
+    "kraj":"Polska",
+    "populacja":500000,
+    "wielkosc_km2":5000,
+    "zabytki":[{"nazwa":"Zamek Królewski na Wawelu",  "typ_zabytku":"Zamek",
+        "rok_wykonania":1250,
+        "styl":"renesansowym"
+        },
+        {"nazwa":"Dama z gronostajem","typ_zabytku":"Obraz",
+            "rok_wykonania":1488,
+            "autor":"Leonardo da Vinci",
+            "technika_wykonania":"olej+tempera na desce"
+        },
+            {
+                "nazwa":"Sukiennice w Krakowie","rok_wykonania":1392,"typ_zabytku":
+                "Sukiennice"
+            },
+            {
+                "nazwa":"Kościół archiprezbiterialny Wniebowzięcia Najświętszej Marii Panny Kościół Mariacki",
+                "rok_wykonania":1347,
+                "typ_zabytku":"sakralny","opis":"Należy do najbardziej znanych zabytków Krakowa i Polski.
+                Jest kościołem gotyckim, budowanym w XIV i XV wieku. Położony jest przy północno-wschodnim narożniku Rynku Głównego,
+                 na Placu Mariackim. Kościół znajduje się na trasie Małopolskiej Drogi św. Jakuba z Sandomierza do Tyńca."
+             }
+    ]
+  
+
+},
+{
+    "miasto":"Rzym",
+    "kraj":"Włochy",
+    "populacja":4331856,
+    "wielkosc_km2":1287,
+    "zabytki":[{"nazwa":"Koloseum","typ_zabytku":"amfiteatr",
+        "rok_wykonania":80,
+        "autor":["Tytus Flawiusz","Wespazjan"],"opis":"Odbywały się w nim m.in. walki gladiatorów, naumachie, polowania na dzikie zwierzęta.
+         Tradycja mówi, iż w Koloseum mordowano chrześcijan, co upamiętniono krzyżem wewnątrz budowli. Od połowy XVIII wieku Koloseum jest otoczone opieką
+          jako miejsce męczeństwa pierwszych chrześcijan, wcześniej pozyskiwano z niego bloki kamienne jako materiał budowlany. Nazwa Koloseum została nadana
+           we wczesnym średniowieczu od znajdującego się w pobliżu budowli ogromnego (gr. „kolossos”) posągu Nerona przedstawionego jako Helios."},
+           {"nazwa":"Fontanna di Trevi","typ_zabytku":"Fontanna","rok_wykonania":1435,"autor":"Leon Battiste Albertiego","opis":"Forma tej barokowej fontanny przypomina fasadę budynku,
+            ma 20,0 m szerokości i 26,0 m wysokości. Centralnymi postaciami fontanny są Okeanos i dwa trytony, będące symbolami Kastora i Polluksa.
+            Bóstwo oceanów znajduje się na rydwanie zaprzężonym w dwa hippokampy (hybrydy konia i ryby), z których jeden jest spokojny, prowadzony przez
+             trytona z prawej strony, tryton z lewej strony natomiast stara się okiełznać niespokojnego konia. Symbolizują one dwa odmienne stany morza (cisza i sztorm).
+             Cztery statuy umieszczone na balustradzie symbolizują cztery pory roku (są to dzieła Corsiniego, Ludovisiego, Pincellottiego i Queirolego).
+              W sąsiednich niszach znajdują się kobiece postaci będące alegoriami Zdrowia (po prawej) i Obfitości (po lewej)." },
+              {"nazwa":"Zamek Świętego Anioła","typ_zabytku":"mauzoleum","rok_wykonania":139}]
+},
+{
+    "miasto":"Paryż",
+    "kraj":"Francja",
+    "populacja":2243833,
+    "wielkosc_km2":1060,
+    "zabytki":[{"nazwa":"Wieża Eiffla","typ_zabytku":"wieża","rok_wykonania":1889,
+    "autor":["Gustave Eiffel", "Maurice Koechlin", "Emile Nouguier"],
+    "opis":"Jest to ażurowa konstrukcja kratowa z kutej stali.
+     Jej całkowita wysokość zmieniała się kilkukrotnie za sprawą zamocowanej na jej szczycie anteny"
+    },
+        {"nazwa":"Luwr","typ_zabytku":"muzeum","rok_wykonania":1793,
+            "opis":"Dawny pałac królewski w Paryżu, obecnie muzeum sztuki. Jedno z największych muzeów na świecie, najczęściej odwiedzana placówka tego typu na świecie.
+             Stanowi jedno z ważniejszych punktów orientacyjnych stolicy Francji. Luwr położony jest między rue de Rivoli i prawym brzegiem Sekwany oraz ogrodami Tuileries i rue du Louvre w obrębie 1. dzielnicy.
+              W kompleksie budynków o całkowitej powierzchni wynoszącej 60 600 metrów kwadratowych znajdują się zbiory liczące około 300 000 dzieł sztuki od czasów najdawniejszych po połowę wieku XIX, dzieła światowego dziedzictwa o największej sławie takie jak np. stela z kodeksem Hammurabiego,
+               Nike z Samotraki, Wenus z Milo, Mona Lisa Leonarda da Vinci."},
+               {"nazwa":"Mona Lisa","typ_zabytku":"obraz","rok_wykonania":1507,
+               "autor":"Leonardo da Vinci","technika_wykonania":"olej na drewnie" }]
+},{
+    "miasto":"Londyn",
+    "kraj":"Wielka Brytania",
+    "populacja":8900000,
+    "wielkosc_km2":1572,
+    "zabytki":[{"nazwa":"Big Ben","typ_zabytku":"Dzwon-Zegar","rok_wykonania":1834,
+        "opis":"Nazwa początkowo odnosiła się do dzwonu ze St. Stephen’s Tower (z ang. Wieża św. Szczepana), zwanej również The Clock Tower (ang. „Wieża Zegarowa”), należącej do Pałacu Westminsterskiego. Obecnie nazwa Big Ben odnosi się często zarówno do dzwonu, jak i zegara oraz samej wieży."
+        },{"nazwa":"Tower of London","typ_zabytku":"pałac","rok_wykonania":1070,"autor":"Wilhelm I Zdobywca","opis":"Her Majesty’s Royal Palace and Fortress, The Tower of London, czyli Pałac i Twierdza Jej Królewskiej Mości to jedna z najwspanialszych angielskich budowli. Jej mury były niemym świadkiem wielu mrocznych wydarzeń, które wstrząsnęły krajem. Tower na przestrzeni lat stała się symbolem niełaski monarchów, którzy na wiele lat przemienili ją w więzienie."},
+        {"nazwa":"Tower Bridge","typ_zabytku":"most","rok_wykonania":1872,"autor":"Horace Jones","długość_mostu":244},]
+
+},
+{
+    "miasto":"Warszawa",
+    "kraj":"Polska",
+    "populacja":1 777 972,
+    "wielkosc_km2":518,
+    "zabytki":[{"nazwa":"Pałac Na Wyspie","typ_zabytku":"pałac","rok_wykonania":1689,"autor":["Dominik Merlini",
+        "Jan Chrystian Kamsetzer"]},
+        {"nazwa":"Pałac w Wilanowie","typ_zabytku":"pałac","rok_wykonania":1696,"autor":"Augustyn Wincenty Locci","opis":"Pałac w Wilanowie – barokowy pałac królewski znajdujący się w Warszawie, w dzielnicy Wilanów. Został wzniesiony w latach 1681–1696 dla króla Jana III Sobieskiego i Marii Kazimiery według projektu Augustyna Wincentego Locciego; skrzydła boczne dobudowano w latach 1723–1729."},
+        {"nazwa":"Zamek Królewski w Warszawie","typ_zabytku":"zamek","rok_wykonania":1598,"opis":"Pierwotnie rezydencja książąt mazowieckich, a od XVI wieku siedziba władz I Rzeczypospolitej: króla i Sejmu (Izby Poselskiej i Senatu)."}]
+}
+]

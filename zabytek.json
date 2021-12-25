@@ -1,0 +1,10 @@
+{
+    "miasto":"Kościan",
+    "zabytek":"Kościół Wniebowzięcia Najświętszej Marii Panny",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"sakralny",
+        "rok_wykonania":1333
+        
+    }
+}

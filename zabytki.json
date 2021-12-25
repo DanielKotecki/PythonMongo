@@ -1,0 +1,104 @@
+[{
+    "miasto":"Kościan",
+    "zabytek":"Kościół Wniebowzięcia Najświętszej Marii Panny",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"sakralny",
+        "rok_wykonania":1333
+        
+    }
+},
+   { "miasto":"Wałbrzych",
+    "zabytek":"Zamek Książ",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"Zamek",
+        "rok_wykonania":1288
+        
+     }
+    },
+    {
+    "miasto":"Kraków",
+    "zabytek":"Zamek Królewski na Wawelu",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"Zamek",
+        "rok_wykonania":1250,
+        "styl":"renesansowym"
+        
+     }
+    },
+  
+    },
+    {"miasto":"Malbork",
+    "zabytek":"Zespół zamkowy w Malborku",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"Zamek",
+        "rok_wykonania":1280,
+        "styl":"gotyk"
+     }
+    },
+    {"miasto":"Warszawa",
+    "zabytek":"Bitwa pod Grunwaldem",
+    "kraj":"Polska",
+    "informacje":{
+        "typ_zabytku":"Obraz",
+        "rok_wykonania":1878,
+        "autor":"Jan Matejko",
+        "technika_wykonania":"Olej na płótnie"
+        
+    }
+},
+    {"miasto":"Paryż",
+    "zabytek":"Mona Lisa",
+    "kraj":"Francja",
+    "informacje":{
+        "typ_zabytku":"Obraz",
+        "rok_wykonania":1503,
+        "autor":"Leonardo da Vinci",
+        "technika_wykonania":"Olej na drewnie"
+        
+     }
+    },
+    {"miasto":"Rzym",
+    "zabytek":"Koloseum",
+    "kraj":"Włochy",
+    "informacje":{
+        "typ_zabytku":"amfiteatr",
+        "rok_wykonania":80,
+        "autor":["Tytus Flawiusz","Wespazjan"]
+        
+    }
+},
+    {"miasto":"Wersal",
+    "zabytek":"Pałac wersalski",
+    "kraj":"Francja",
+    "informacje":{
+        "typ_zabytku":"pałac",
+        "rok_wykonania":1668,
+        "autor":["Louis Le Vau","Jules Hardouin-Mansart","Charles Le Brun"," André Le Nôtre"]
+        
+    }
+},
+    {"miasto":"Sydney",
+    "zabytek":"Opera w Sydney",
+    "kraj":"Australia",
+    "informacje":{
+        "typ_zabytku":"opera",
+        "rok_wykonania":1973,
+        "autor":"Jorn Utzon"
+        
+     }
+    },
+    {"miasto":"Paryż",
+    "zabytek":"Notre-Dame",
+    "kraj":"Francja",
+    "informacje":{
+        "typ_zabytku":"sakralny",
+        "rok_wykonania":1345
+        
+     }
+     }
+    ]
+
